@@ -1,0 +1,18 @@
+funcao calculaFatorial(valor){
+  var valorInicial = valor;
+  var auxiliar = valor;
+  var fatorial = valor;
+  
+  enquanto(fatorial > 1) {
+    auxiliar = auxiliar * (fatorial-1);
+    fatorial = fatorial - 1;
+  }
+  
+  retorna auxiliar;
+}
+
+//main
+var valor = 5;
+
+var valorCalculado = calculaFatorial(valor);
+escreva("O fatorial de " + texto(valor) + " é: " + texto(valorCalculado));
