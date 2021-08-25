@@ -5,4 +5,4 @@ Egua é uma linguagem de programação nascida e mantida em Belém do Pará, Bra
 </p>
 Egua é uma linguagem em código aberto e gratuita para a utilização de todos.
 
-<img src"https://egua.tech/assets/img/egua.png">https://egua.tech
+<img src"https://egua.tech/assets/img/egua.png">
