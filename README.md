@@ -1,4 +1,5 @@
-<h1><img src="https://egua.tech/assets/img/egua.png" width="40">  Calcula Fatorial - Linguagem Egua</h1>
+<img src="https://egua.tech/assets/img/egua.png" width="40" align=center>
+<h1>Calcula Fatorial - Linguagem Egua</h1>
 <h3>Função que calcula o fatorial de um número em Egua</h3>
 
 <p>
