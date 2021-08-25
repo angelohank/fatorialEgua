@@ -12,6 +12,6 @@
   Egua é uma linguagem em código aberto e gratuita para a utilização de todos.
 </p>
 
-<h3>
+<h3 font-size="10px">
   🔗 https://egua.tech/assets/img/egua.png 
 </h3>
