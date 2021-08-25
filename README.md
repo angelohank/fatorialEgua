@@ -1,5 +1,4 @@
-# 
-<h1>fatorialEgua</h1>
+<h1>Calcula Fatorial - Linguagem Egua</h1>
 <h3>Função que calcula o fatorial de um número em Egua</h3>
 <p>
 Egua é uma linguagem de programação nascida e mantida em Belém do Pará, Brasil. O principal objetivo da linguagem é auxiliar no aprendizado de lógica de programação em língua portuguesa, visto que todos os comandos da linguagem são feitos em português, fazendo com que os desenvolvedores que não possuem conhecimento da língua inglesa consigam entender de fato o código escrito.
